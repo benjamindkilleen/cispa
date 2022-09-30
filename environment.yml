@@ -1,0 +1,9 @@
+name: cispa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - -r requirements.txt
+      - e .

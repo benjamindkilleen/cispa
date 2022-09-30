@@ -1,0 +1,7 @@
+black
+flake8
+pytest
+
+numpy
+click
+rich
