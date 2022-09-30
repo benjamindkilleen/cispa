@@ -43,11 +43,11 @@ class FrameTransform:
         return f"R = {self.R}\np = {self.p}"
 
     @overload
-    def __mul__(self, other: FrameTransform) -> FrameTransform:
+    def __matmul__(self, other: FrameTransform) -> FrameTransform:
         pass
 
     @overload
-    def __mul__(self, other: np.ndarray) -> np.ndarray:
+    def __matmul__(self, other: np.ndarray) -> np.ndarray:
         pass
 
     def __matmul__(self, other):
