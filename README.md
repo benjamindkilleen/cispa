@@ -11,8 +11,8 @@ If you use this template or any of the code within for your project, please cite
  author = {Killeen, Benjamin D.},
  title = {{cispa: Template for CIS I programming assignments at Johns Hopkins}},
  journal = {GitHub},
- year = {2021},
- month = {Nov},
+ year = {2022},
+ month = {Sep},
  url = {https://github.com/benjamindkilleen/cispa}
 }
 ```
