@@ -1,6 +1,6 @@
 # cispa
 
-Template for CIS I programming assignments at Johns Hopkins. [Here](https://ciis.lcsr.jhu.edu/doku.php?id=courses:455-655:455-655) is the corse page.
+Template for CIS I programming assignments at Johns Hopkins. [Here](https://ciis.lcsr.jhu.edu/doku.php?id=courses:455-655:455-655) is the course page.
 
 You may need to modify this README to contain the proper urls for your repository.
 
