@@ -64,9 +64,9 @@ git clone git@github.com:benjamindkilleen/cispa.git # or unzip from file.
 Then change into the directory, create the Anacoconda environment, and activate it.
 
 ```bash
-cd ciscode
+cd cispa
 conda env create -f environment.yml
-conda activate ciscode
+conda activate cispa
 ```
 
 ## Usage
